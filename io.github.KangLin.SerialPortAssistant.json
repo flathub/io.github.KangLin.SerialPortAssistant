@@ -71,7 +71,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/KangLin/SerialPortAssistant.git",
-                    "commit": "bacfe9f38a78331c673a020f1f1b5a7963a9c4ee"
+                    "tag": "v0.5.31"
                 }
             ]
         }
