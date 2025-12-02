@@ -51,7 +51,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/KangLin/RabbitCommon.git",
-                    "commit": "3f82d1b020d567dd0593d7d049f3bce7f8d39171"
+                    "commit": "92cc726fc03f45941207f45dcca1abde9b793d67"
                 }
             ]
         },
@@ -71,7 +71,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/KangLin/SerialPortAssistant.git",
-                    "commit": "54bdd9ccb35f18ed3e983c4f67363b1d73865d31",
+                    "commit": "ba81b6a52db20dc73c867c13038274ea53f6a2db",
                     "disable-shallow-clone": true
                 }
             ]
