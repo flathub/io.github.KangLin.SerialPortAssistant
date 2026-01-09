@@ -1,7 +1,7 @@
 {
     "id": "io.github.KangLin.SerialPortAssistant",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.8",
+    "runtime-version": "6.9",
     "sdk": "org.kde.Sdk",
     "command": "SerialPortAssistant",
     "cleanup": [
