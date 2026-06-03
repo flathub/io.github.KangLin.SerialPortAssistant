@@ -4,19 +4,22 @@
     "runtime-version": "6.9",
     "sdk": "org.kde.Sdk",
     "command": "SerialPortAssistant",
-    "cleanup": [
-        "*.la",
-        "*.a",
-        "/include",
-        "/lib/cmake",
-        "/lib/pkgconfig"
-    ],
     "finish-args": [
         "--share=ipc",
         "--share=network",
         "--socket=x11",
         "--device=all",
         "--filesystem=xdg-documents"
+    ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/share/doc",
+        "/share/man",
+        "/share/pixmaps",
+        "*.la",
+        "*.a"
     ],
     "modules": [
         {
